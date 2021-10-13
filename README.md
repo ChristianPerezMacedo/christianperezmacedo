@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola! Sono Christian Perez 👨
 
-<!--
-**ChristianPerezMacedo/christianperezmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center> 
 
-Here are some ideas to get you started:
+![](./profile.png)
+#### Uno sviluppatore felice 🎉
+</center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi piace programmare e mangiare bene 🍣, sono sempre molto disponibile per nuove sfide. 
+
+Skills: angular, ionic, react, redux, git ....  
+
+Appassionato di analisi dati e reti neuronali 🧠 
+
+Sono sempre disponibile ad iniziare progettini in amicizia 😊
+
+Me on [LinkedIn](https://www.linkedin.com/in/christian-perez-macedo-a079a1186/).
